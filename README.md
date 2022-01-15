@@ -1,1 +1,4 @@
-# SIGNATE_AIQuest2021_Assesment
+# AIquest2021アセスメントにて使用したコードです。
+
+EDA : データEDA及び前処理になります。
+Prediction : EDAで作成したデータセットを実際に予測したコードになります。
